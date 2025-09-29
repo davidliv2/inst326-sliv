@@ -1,3 +1,3 @@
 Week 1: I did not use AI to complete any of the exercises. 
 Week 2: I did not use AI to complete any of the exercises. 
-Week 3: 
+Week 3: This week I used AI to help me understand how to build Python functions step by step, like using .pop() in remove_book to delete a title and author, adding a loop in count_available to total up available books, and flipping a boolean in checkout_book to mark when a book gets checked out.
