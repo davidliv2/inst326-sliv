@@ -1,1 +1,1 @@
-Week 9
+Week 9: We had a practice exercise where we had to turn a simple class into a parent class and then create 2–3 subclasses. I used AI to check if I was overriding the methods the right way. It didn’t write the code for me, but it helped me see why using super() matters.
